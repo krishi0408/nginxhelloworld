@@ -11,7 +11,7 @@ steps:
   settings:
     username:krishi0408
       from_secret: u_docker
-    password:Yajat@345
+    password:krishi0408
       from_secret: p_docker
     repo: krishi0408/nginxhelloworld
     tags: "test_1"
