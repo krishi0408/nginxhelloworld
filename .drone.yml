@@ -9,9 +9,9 @@ steps:
 - name: publish
   image: plugins/docker
   settings:
-    username:
+    username:krishi0408
       from_secret: u_docker
-    password:
+    password:Yajat@345
       from_secret: p_docker
     repo: krishi0408/nginxhelloworld
     tags: "test_1"
