@@ -9,7 +9,7 @@ steps:
 - name: publish
   image: plugins/docker
   settings:
-    username:
-    password:
+    username: krishi0408
+    password: Krishika@123
     repo: krishi0408/nginxhelloworld
     tags: "test_1"
