@@ -10,8 +10,6 @@ steps:
   image: plugins/docker
   settings:
     username:
-      from_secret: u_docker
     password:
-      from_secret: p_docker
     repo: krishi0408/nginxhelloworld
     tags: "test_1"
